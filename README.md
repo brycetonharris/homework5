@@ -1,0 +1,1 @@
+This Java program creates two text files "matrix1.txt" and "matrix2.txt" then multiplies the matrices together. The result is then printed to "matrix3.txt"
